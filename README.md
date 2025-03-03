@@ -1,2 +1,2 @@
-# FighterJetGame
-This is a small game I build to test my basic coding skills.
+# Simple Python and C# applications
+These are simple applications for me to practice my programming skills using python and C#
